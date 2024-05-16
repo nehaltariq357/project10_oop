@@ -1,5 +1,5 @@
+#! /usr/bin/env node 
 import inquirer from "inquirer";
-
 class Student {
   name: string;
   constructor(name: string) {
